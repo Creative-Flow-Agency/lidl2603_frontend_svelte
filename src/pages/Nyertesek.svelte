@@ -17,6 +17,8 @@
   <div
     class="max-w-[1240px] w-[95vw] bg-white rounded-3xl shadow-lg mx-auto mb-12 p-12 relative z-10"
   >
-    Nyertesek
+    <p class="text-lg mb-4 font-bold">Napi nyeremény</p>
+    <p class="text-lg mb-4 font-bold">Heti nyermény</p>
+    <p class="text-lg mb-4 font-bold">Fődíj</p>
   </div>
 </section>

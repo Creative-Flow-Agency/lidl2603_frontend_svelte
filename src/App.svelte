@@ -2,7 +2,7 @@
   import Router from 'svelte-spa-router';
   import Home from './pages/Home.svelte';
   import Nyertesek from './pages/Nyertesek.svelte';
-  import Szabalyzat from './pages/Szabalyzat copy.svelte';
+  import Szabalyzat from './pages/Szabalyzat.svelte';
   import GyakoriKerdesek from './pages/GyakoriKerdesek.svelte';
 
   const routes = {
