@@ -29,14 +29,14 @@ button {
 
 @font-face {
   font-family: 'markerfield';
-  src: url('/penny2603_frontend_svelte/fonts/Markerfield-Regular.otf') format('opentype');
+  src: url('/lidl2603_frontend_svelte/fonts/Markerfield-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'sweetsans';
-  src: url('/penny2603_frontend_svelte/fonts/Sweet - SweetSans-Regular.otf') format('opentype');
+  src: url('/lidl2603_frontend_svelte/fonts/Sweet - SweetSans-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
